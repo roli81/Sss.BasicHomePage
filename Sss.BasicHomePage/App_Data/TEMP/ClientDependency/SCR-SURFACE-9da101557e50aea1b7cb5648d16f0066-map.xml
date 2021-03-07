@@ -1,0 +1,1086 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\1_50586025e5554d4793784bc02024f96d.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/css/styles.css" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\2_c334fc41236a43bb9de9918ac856419e.cdC" compression="gzip" version="2">
+    <files>
+      <file name="/css/styles.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\2_0e9ca56162034b7fa882a354f34c7631.cdC" compression="gzip" version="2">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItYXJpYS9hbmd1bGFyLWFyaWEubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXRvdWNoL2FuZ3VsYXItdG91Y2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXItc2FuaXRpemUvYW5ndWxhci1zYW5pdGl6ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1hbmltYXRlL2FuZ3VsYXItYW5pbWF0ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1tZXNzYWdlcy9hbmd1bGFyLW1lc3NhZ2VzLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXVpLXNvcnRhYmxlL3NvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9jaGFydC5qcy9jaGFydC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY2hhcnQuanMvYW5ndWxhci1jaGFydC5taW4uanM7L3VtYnJhY28vbGliL3dpY2ctaW5lcnQvZGlzdC9pbmVydC5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uaW50ZXJjZXB0b3JzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\2_6f0506e12c1148eb819340ca7b89177e.cdJ" compression="gzip" version="2">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-aria/angular-aria.min.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/wicg-inert/dist/inert.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3RpbnltY2UvdGlueW1jZS5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9wYXN0ZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvYW5jaG9yL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9jaGFybWFwL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy90YWJsZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvbGlzdHMvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2Fkdmxpc3QvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2hyL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9hdXRvbGluay9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvZGlyZWN0aW9uYWxpdHkvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL3RhYmZvY3VzL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9zZWFyY2hyZXBsYWNlL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9mdWxsc2NyZWVuL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9ub25lZGl0YWJsZS9wbHVnaW4ubWluLmpzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\2_89b2f7d989f44ba687aa54b817836486.cdJ" compression="gzip" version="2">
+    <files>
+      <file name="/umbraco/lib/tinymce/tinymce.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/paste/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/anchor/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/charmap/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/table/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/lists/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/advlist/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/hr/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/autolink/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/directionality/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/tabfocus/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/searchreplace/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/fullscreen/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/noneditable/plugin.min.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\20_d0c671528d624b1b95c5781cb7d41553.cdC" compression="gzip" version="20">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItYXJpYS9hbmd1bGFyLWFyaWEubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXRvdWNoL2FuZ3VsYXItdG91Y2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXItc2FuaXRpemUvYW5ndWxhci1zYW5pdGl6ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1hbmltYXRlL2FuZ3VsYXItYW5pbWF0ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1tZXNzYWdlcy9hbmd1bGFyLW1lc3NhZ2VzLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXVpLXNvcnRhYmxlL3NvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9jaGFydC5qcy9jaGFydC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY2hhcnQuanMvYW5ndWxhci1jaGFydC5taW4uanM7L3VtYnJhY28vbGliL3dpY2ctaW5lcnQvZGlzdC9pbmVydC5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uaW50ZXJjZXB0b3JzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\20_0382eb2446d548b1a502d3cdc9648714.cdJ" compression="gzip" version="20">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-aria/angular-aria.min.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/wicg-inert/dist/inert.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3RpbnltY2UvdGlueW1jZS5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9wYXN0ZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvYW5jaG9yL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9jaGFybWFwL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy90YWJsZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvbGlzdHMvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2Fkdmxpc3QvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2hyL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9hdXRvbGluay9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvZGlyZWN0aW9uYWxpdHkvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL3RhYmZvY3VzL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9zZWFyY2hyZXBsYWNlL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9mdWxsc2NyZWVuL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9ub25lZGl0YWJsZS9wbHVnaW4ubWluLmpzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\20_8b5538c6af4a43c8839982ac73709f2c.cdJ" compression="gzip" version="20">
+    <files>
+      <file name="/umbraco/lib/tinymce/tinymce.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/paste/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/anchor/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/charmap/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/table/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/lists/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/advlist/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/hr/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/autolink/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/directionality/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/tabfocus/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/searchreplace/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/fullscreen/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/noneditable/plugin.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\20_8696ee602b044ec0b484899cc89c0d61.cdC" compression="gzip" version="20">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\20_97e6c75a29c14dbd97c8df62c0a03711.cdC" compression="gzip" version="20">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\20_1bd129d6ae5e4c16a949f4076a602d7e.cdJ" compression="gzip" version="20">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\21_e2b6d9b01e77430ebbddc2f12bfbc3bb.cdC" compression="gzip" version="21">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\21_74a1026b63a14a7b896f6f0b4399e76d.cdJ" compression="gzip" version="21">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\22_ecd95d81dd2c43e8ac4e0ed921e0068f.cdC" compression="gzip" version="22">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\22_15046c0e90514bc8bd15dab35e5c6514.cdJ" compression="gzip" version="22">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\23_9e74e54a28904ba28917158151ff7ece.cdC" compression="gzip" version="23">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\23_1dc45c2c16594fc18a71bde5f33942f1.cdJ" compression="gzip" version="23">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\24_da0e3a4137a746b992000ef0621ed959.cdC" compression="gzip" version="24">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\24_dc383a0681944848bc52be7d1fed3b37.cdJ" compression="gzip" version="24">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\25_63bca0335e8f468391e583087c1c4c71.cdC" compression="gzip" version="25">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\25_8405a10b13fc479ea5bfe5bb9518a299.cdJ" compression="gzip" version="25">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\26_c716d9d88eba42f9b8f7fb1171be9d47.cdC" compression="gzip" version="26">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\26_a6063afbade4411abf348e1091485c88.cdJ" compression="gzip" version="26">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\27_f60ae43196524f3b9865da951356f602.cdC" compression="gzip" version="27">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\27_3510969ed09144aab89dde2f04ce60bf.cdJ" compression="gzip" version="27">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\28_d22f399aae1649238e583198adb9e04c.cdC" compression="gzip" version="28">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\28_aefb25acfeac4877b6e76c4a8dc7db3c.cdJ" compression="gzip" version="28">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\29_31fa76659d804632a755635970a75fd7.cdC" compression="gzip" version="29">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\29_009a57f78a914330b2deedc9bdb99409.cdJ" compression="gzip" version="29">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\30_b2b6fe7398b54de98a6339cc87674622.cdC" compression="gzip" version="30">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\30_45d2376335614c6c9e0148eb06b6082a.cdJ" compression="gzip" version="30">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\30_cb3a55045a364a689367f100550db977.cdC" compression="gzip" version="30">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItYXJpYS9hbmd1bGFyLWFyaWEubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXRvdWNoL2FuZ3VsYXItdG91Y2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXItc2FuaXRpemUvYW5ndWxhci1zYW5pdGl6ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1hbmltYXRlL2FuZ3VsYXItYW5pbWF0ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1tZXNzYWdlcy9hbmd1bGFyLW1lc3NhZ2VzLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXVpLXNvcnRhYmxlL3NvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9jaGFydC5qcy9jaGFydC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY2hhcnQuanMvYW5ndWxhci1jaGFydC5taW4uanM7L3VtYnJhY28vbGliL3dpY2ctaW5lcnQvZGlzdC9pbmVydC5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uaW50ZXJjZXB0b3JzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\30_171e27f0691d42b0b22e439f8bbdda60.cdJ" compression="gzip" version="30">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-aria/angular-aria.min.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/wicg-inert/dist/inert.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3RpbnltY2UvdGlueW1jZS5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9wYXN0ZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvYW5jaG9yL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9jaGFybWFwL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy90YWJsZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvbGlzdHMvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2Fkdmxpc3QvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2hyL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9hdXRvbGluay9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvZGlyZWN0aW9uYWxpdHkvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL3RhYmZvY3VzL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9zZWFyY2hyZXBsYWNlL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9mdWxsc2NyZWVuL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9ub25lZGl0YWJsZS9wbHVnaW4ubWluLmpzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\30_562c7acb74054c9d870592fd19fd7194.cdJ" compression="gzip" version="30">
+    <files>
+      <file name="/umbraco/lib/tinymce/tinymce.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/paste/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/anchor/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/charmap/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/table/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/lists/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/advlist/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/hr/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/autolink/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/directionality/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/tabfocus/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/searchreplace/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/fullscreen/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/noneditable/plugin.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\31_60594edec26b4429b0a062a4efb6c43a.cdC" compression="gzip" version="31">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\31_d12db32bd3344f8c8ff8042bea84f264.cdJ" compression="gzip" version="31">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\32_16a6fa92bfb84007a0f2439236f55a03.cdC" compression="gzip" version="32">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\32_7d99af6340164d18949d6d5b1302deaf.cdJ" compression="gzip" version="32">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\32_ad0d17f677c2493b98877b69cb4c3294.cdC" compression="gzip" version="32">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItYXJpYS9hbmd1bGFyLWFyaWEubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXRvdWNoL2FuZ3VsYXItdG91Y2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXItc2FuaXRpemUvYW5ndWxhci1zYW5pdGl6ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1hbmltYXRlL2FuZ3VsYXItYW5pbWF0ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1tZXNzYWdlcy9hbmd1bGFyLW1lc3NhZ2VzLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXVpLXNvcnRhYmxlL3NvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9jaGFydC5qcy9jaGFydC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY2hhcnQuanMvYW5ndWxhci1jaGFydC5taW4uanM7L3VtYnJhY28vbGliL3dpY2ctaW5lcnQvZGlzdC9pbmVydC5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uaW50ZXJjZXB0b3JzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\32_7b923d47c4af44acb1c2cd2f5b87ad8b.cdJ" compression="gzip" version="32">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-aria/angular-aria.min.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/wicg-inert/dist/inert.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3RpbnltY2UvdGlueW1jZS5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9wYXN0ZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvYW5jaG9yL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9jaGFybWFwL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy90YWJsZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvbGlzdHMvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2Fkdmxpc3QvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2hyL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9hdXRvbGluay9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvZGlyZWN0aW9uYWxpdHkvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL3RhYmZvY3VzL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9zZWFyY2hyZXBsYWNlL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9mdWxsc2NyZWVuL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9ub25lZGl0YWJsZS9wbHVnaW4ubWluLmpzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\32_2110b51d7ea1453281a78cb28b0abd3c.cdJ" compression="gzip" version="32">
+    <files>
+      <file name="/umbraco/lib/tinymce/tinymce.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/paste/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/anchor/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/charmap/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/table/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/lists/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/advlist/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/hr/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/autolink/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/directionality/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/tabfocus/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/searchreplace/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/fullscreen/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/noneditable/plugin.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\33_cfbd16d65a7845fcb18ecba263567507.cdC" compression="gzip" version="33">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\33_65745e70d77a418dbf55489fc69ccdd4.cdJ" compression="gzip" version="33">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\34_bc56f907ee734f6ab000e850bf9471ea.cdC" compression="gzip" version="34">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\34_17f0c784f0da46e593e756e28084d24c.cdJ" compression="gzip" version="34">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\35_d79570a4be8645bfbd5dcaeeab64b400.cdC" compression="gzip" version="35">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\35_f5d177e052c1478eae72548c9fa06e6d.cdJ" compression="gzip" version="35">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\35_baf7a2b63f8541a09c8e09a2ce1de275.cdC" compression="gzip" version="35">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItYXJpYS9hbmd1bGFyLWFyaWEubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXRvdWNoL2FuZ3VsYXItdG91Y2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXItc2FuaXRpemUvYW5ndWxhci1zYW5pdGl6ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1hbmltYXRlL2FuZ3VsYXItYW5pbWF0ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1tZXNzYWdlcy9hbmd1bGFyLW1lc3NhZ2VzLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXVpLXNvcnRhYmxlL3NvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9jaGFydC5qcy9jaGFydC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY2hhcnQuanMvYW5ndWxhci1jaGFydC5taW4uanM7L3VtYnJhY28vbGliL3dpY2ctaW5lcnQvZGlzdC9pbmVydC5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy9hcHAuanM7L3VtYnJhY28vanMvdW1icmFjby5yZXNvdXJjZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5kaXJlY3RpdmVzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZmlsdGVycy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlcnZpY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uaW50ZXJjZXB0b3JzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\35_5d7c724fea1740de980825a80816c2d9.cdJ" compression="gzip" version="35">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-aria/angular-aria.min.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/wicg-inert/dist/inert.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3RpbnltY2UvdGlueW1jZS5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9wYXN0ZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvYW5jaG9yL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9jaGFybWFwL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy90YWJsZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvbGlzdHMvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2Fkdmxpc3QvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2hyL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9hdXRvbGluay9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvZGlyZWN0aW9uYWxpdHkvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL3RhYmZvY3VzL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9zZWFyY2hyZXBsYWNlL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9mdWxsc2NyZWVuL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9ub25lZGl0YWJsZS9wbHVnaW4ubWluLmpzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\35_aa35b709fefc4c9a989e9d4b266c8fc8.cdJ" compression="gzip" version="35">
+    <files>
+      <file name="/umbraco/lib/tinymce/tinymce.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/paste/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/anchor/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/charmap/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/table/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/lists/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/advlist/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/hr/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/autolink/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/directionality/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/tabfocus/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/searchreplace/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/fullscreen/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/noneditable/plugin.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\37_bdb1548c3a47492c8a3be963beb00f11.cdC" compression="gzip" version="37">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\37_d406ba3b7cf34a74bc50677e0c6ea22c.cdJ" compression="gzip" version="37">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\37_56c87ac7317540c1a4503e44ac38050e.cdJ" compression="gzip" version="37">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\39_aa99710760244a02b316dbc67ff7c301.cdC" compression="gzip" version="39">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\39_57a85e1dd4e4435e82d90028fa9def57.cdJ" compression="gzip" version="39">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\40_a42755818cc148d493aff7d500e39fa4.cdC" compression="gzip" version="40">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\40_6906d593d7e1417cb551e010bb1631ba.cdJ" compression="gzip" version="40">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\41_1043f82c26a74630821a88ae2f3d8539.cdC" compression="gzip" version="41">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\41_39985c30923b4c86886d141b7d671035.cdJ" compression="gzip" version="41">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\42_474194e5c9fe4b40970a92451a12816f.cdC" compression="gzip" version="42">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\42_6ad92a979c6f429aadffeb7db7fc1869.cdJ" compression="gzip" version="42">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\45_9bc3b16638cd4408906ebc0a7a69933a.cdC" compression="gzip" version="45">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\45_706acd4b061c408e99308a3b2c6ba243.cdJ" compression="gzip" version="45">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\50_08a072fc29b24dcb888e649c565d68c0.cdC" compression="gzip" version="50">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\50_bc2a886522d14b3db4905bcb2f40263a.cdJ" compression="gzip" version="50">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\51_807bef5df6c740e294953e350691fb4a.cdC" compression="gzip" version="51">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\51_387aa9024e174169a739a4bb9882d55e.cdJ" compression="gzip" version="51">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\52_d2a7ac624fc745d9a1fda23e6b344ba5.cdC" compression="gzip" version="52">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\52_718d1f4494b7496bb434caea1d12b336.cdJ" compression="gzip" version="52">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\53_f297fa35a7304a199024871f06cc6c1b.cdC" compression="gzip" version="53">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\53_c5d18e3ecd194388a9e7b73f107d017b.cdJ" compression="gzip" version="53">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\54_682de65f438246ed9e6682dee2fed32e.cdC" compression="gzip" version="54">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\54_e1a40f1c019841dbae8d86248a7cb637.cdJ" compression="gzip" version="54">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\56_b7bfc659064e480b98f4bbedcb133c75.cdC" compression="gzip" version="56">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\56_85846223297c4bddb9a5d41ca6e0eca4.cdJ" compression="gzip" version="56">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\57_def13a7b0d174d17b5d18e1bda1fdd4a.cdC" compression="gzip" version="57">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\57_547f781bb0784759918319a55c94a419.cdJ" compression="gzip" version="57">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\58_8f6548376c4e438f87f45af71c56d0bb.cdC" compression="gzip" version="58">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\58_b6cf701c94874af3ab313313fd9b6886.cdJ" compression="gzip" version="58">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\59_306cb0685db14d8fb1b439098b06140c.cdC" compression="gzip" version="59">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\59_59f0fe822ac04a92ac374238b92aeaa3.cdJ" compression="gzip" version="59">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\60_bb15a892c4fa43219bb6064f03c046dc.cdC" compression="gzip" version="60">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\60_b09536bc93ff452e855ca1e13536f904.cdJ" compression="gzip" version="60">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\61_2e4ffb3fe6f14d7d8f665aee338df553.cdC" compression="gzip" version="61">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\61_e5167ba7d460428bbd6747a188f82ba9.cdJ" compression="gzip" version="61">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\62_a2d1a4ae1ae740fba9a59c4c5633e425.cdC" compression="gzip" version="62">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\62_91661b5a7e0a4a79bcb15e235164eac3.cdJ" compression="gzip" version="62">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\66_e4c6766186924c66ad334ad7a494dde4.cdC" compression="gzip" version="66">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\66_5d45096075674950a93ee028bbea3308.cdJ" compression="gzip" version="66">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\69_5ca07d2232e54752929cbb44afee43b7.cdC" compression="gzip" version="69">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\69_97ca64ad5a1449b2b595273d53ba5733.cdJ" compression="gzip" version="69">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\70_c4f2a76fe9894758951416bb161d1b42.cdC" compression="gzip" version="70">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\70_11c1d14e3dcb45e58fa0f05d6a98b412.cdJ" compression="gzip" version="70">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\71_9b50e76fb223421093fc74d41fdc394c.cdC" compression="gzip" version="71">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\71_0610582e63074c5ead6e8c1c59de5e19.cdJ" compression="gzip" version="71">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\72_0c0aefe255634a6c8d1b4032f5eb45d3.cdC" compression="gzip" version="72">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\72_d4e92cb6eedd4b999dc2a8289b85c94f.cdJ" compression="gzip" version="72">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\73_848e8bde6c484249aab3eb2d76d6eaaa.cdC" compression="gzip" version="73">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\73_73f6ac708b6143489e4cb470b7dd9fb7.cdJ" compression="gzip" version="73">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\74_3531d05c5a88403bb0d991434965429b.cdC" compression="gzip" version="74">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\74_afa099980f28485db0384957caa7e8f7.cdJ" compression="gzip" version="74">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\78_418442f5a6264aaba023f9bcb36f8434.cdC" compression="gzip" version="78">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\78_6fa100f364fb4fd7b1b31008aee938d8.cdJ" compression="gzip" version="78">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\79_f17a84bcc85a4d8f923ad102796fe924.cdC" compression="gzip" version="79">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\79_4bdc2807bdcb4c24ad40443e19676018.cdJ" compression="gzip" version="79">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+  <item key="L2Nzcy9zdHlsZXMuY3NzOy9jc3Mvc3R5bGVzLXNtLmNzczsvY3NzL3N0eWxlcy1tZC5jc3M7L2Nzcy9zdHlsZXMtbGcuY3NzOy9jc3Mvc3R5bGVzLXhsLmNzczsvZm9udGF3ZXNvbWUvY3NzL2FsbC5jc3M7L2NvbnRlbnQvbWFnbmlmaWMtcG9wdXAuY3NzOw" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\81_ac1dc2a201d64b3aa070252e111d102c.cdC" compression="gzip" version="81">
+    <files>
+      <file name="/css/styles.css" />
+      <file name="/css/styles-sm.css" />
+      <file name="/css/styles-md.css" />
+      <file name="/css/styles-lg.css" />
+      <file name="/css/styles-xl.css" />
+      <file name="/fontawesome/css/all.css" />
+      <file name="/content/magnific-popup.css" />
+    </files>
+  </item>
+  <item key="L2ZvbnRhd2Vzb21lL2pzL2FsbC5qczsvc2NyaXB0cy9zY3JpcHRzLmpzOy9zY3JpcHRzL2pxdWVyeS5tYWduaWZpYy1wb3B1cC5taW4uanM7" file="C:\_projects\Sss.BasicHomePage\Sss.BasicHomePage\App_Data\TEMP\ClientDependency\81_09263bbec9bd41ef9dc19e7b97b95326.cdJ" compression="gzip" version="81">
+    <files>
+      <file name="/fontawesome/js/all.js" />
+      <file name="/scripts/scripts.js" />
+      <file name="/scripts/jquery.magnific-popup.min.js" />
+    </files>
+  </item>
+</map>

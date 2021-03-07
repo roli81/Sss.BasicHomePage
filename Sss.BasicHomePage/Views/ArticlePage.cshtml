@@ -1,0 +1,31 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<Sss.BasicHomePage.Models.PageModels.ArticlePage>
+@{
+    Layout = "BasePage.cshtml";
+}
+
+@* the fun starts here *@
+
+
+
+<h1>@Model.Title</h1>
+
+@if (!string.IsNullOrEmpty(@Model.Abstract))
+{
+    <div class="musikarin-panel">
+        @Model.Abstract
+    </div>
+}
+
+
+@if (@Model.EmotionImage != null && !string.IsNullOrEmpty(Model.EmotionImage.LargeUrl))
+{
+    <img class="emotion-stage" src="@Model.EmotionImage.LargeUrl" alt="@Model.EmotionImage.Alt"/>
+}
+
+
+@if (!string.IsNullOrEmpty(Model.MainContent))
+{
+    <div class="page-article">
+        @Html.Raw(Model.MainContent)
+    </div>
+}

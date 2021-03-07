@@ -1,0 +1,208 @@
+html {
+    height: 100%;
+}
+
+
+
+body {
+    background-color: rgb(171,231,255);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 3em;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #3d3d3d;
+}
+
+
+
+
+div.wrapper {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  
+}
+
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 500;
+}
+
+
+header img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.dropdown-menu {
+    margin: 0;
+    padding: 0;
+    font-size: 0.65em;
+}
+
+.main-navi {
+    font-size: 0.7em;
+}
+.main-navi, .dropdown-menu, .dropdown-item {
+    background-color: rgba(255,255, 255, 0.7);
+
+}
+
+ul.nav li.dropdown:hover ul.dropdown-menu {
+    display: block;
+}
+
+    .main-navi a, .main-navi a:link, .main-navi a:visited, .main-navi a:active {
+        color: #3d3d3d;
+  
+    }
+
+.main-navi a:hover {
+    color: #3d3d3d;
+    text-decoration: none;
+    color: #600091 !important;
+}
+
+
+.emotion-stage-homepage {
+
+    width: 500px;
+    max-width: 500px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-bottom: 2em;
+}
+
+main {
+    text-align: center;
+    padding-top: 25%;
+    padding-left: 2em;
+    padding-right: 2em;
+    min-height: 100%;
+    padding-bottom: 50%;
+}
+
+
+
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #600091;
+    width: 100%;
+    min-height: 5%;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 2em;
+    font-size: 0.5em;
+}
+
+footer div.row div {
+    margin-bottom: 2em;
+}
+    #cookie-banner {
+        width: 80%;
+        font-family: 'Manrope', sans-serif;
+        margin: auto;
+        text-align: center;
+    }
+
+
+footer ul {
+    list-style: none;
+    padding: 0;
+
+}
+
+    footer  a {
+
+        color: rgba(255, 255, 255, 0.7);
+    }
+
+
+footer  a:hover  {
+
+    color: #fff;
+    text-decoration: none;
+}
+
+.sss-hint {
+    text-align: right;
+}
+
+
+.wrapper:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 20%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.05;
+    background-image: url('/images/bg.png');
+    background-position: 50% 0;
+    background-repeat: repeat-y;
+    background-size: 70%;
+}
+
+
+.musikarin-panel {
+    padding: 2em;
+    width: 80%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border-radius: 20px;
+}
+
+.page-article {
+    font-family: 'Manrope', sans-serif;
+
+}
+
+
+
+
+.carousel-fade .carousel-item {
+    opacity: 0;
+    transition-duration: .6s;
+    transition-property: opacity;
+}
+
+.carousel-fade .carousel-item.active,
+.carousel-fade .carousel-item-next.carousel-item-left,
+.carousel-fade .carousel-item-prev.carousel-item-right {
+    opacity: 1;
+}
+
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-right {
+    opacity: 0;
+}
+
+.carousel-fade .carousel-item-next,
+.carousel-fade .carousel-item-prev,
+.carousel-fade .carousel-item.active,
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-prev {
+    transform: translateX(0);
+    transform: translate3d(0, 0, 0);
+}
+
+
+.emotion-stage {
+    object-fit: cover;
+    width: 80%;
+    border-radius: 3px;
+    margin-bottom: 2em; 
+
+}

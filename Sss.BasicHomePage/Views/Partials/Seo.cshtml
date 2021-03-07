@@ -1,0 +1,12 @@
+﻿@model Sss.BasicHomePage.Models.ConfigModels.SeoConfig
+
+
+
+@if (Model.Logo != null && !string.IsNullOrEmpty(Model.Logo.LargeUrl))
+{
+    <meta name="thumbnail" content="@("https://gv-erlenacker.ch" + Model.Logo.LargeUrl)" />
+}
+
+<meta name="description" content="@Model.MetaDescription">
+<meta property="og:description" content="@Model.MetaDescription" />
+<meta name="keywords" content="@Model.MetaKeywords">

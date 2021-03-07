@@ -1,0 +1,24 @@
+﻿@model Sss.BasicHomePage.Models.ConfigModels.HeaderConfig
+
+<header class="w-100">
+
+
+    <div id="headerCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+        <div class="carousel-inner">
+            @{
+                var i = 0;
+                var active = new Random().Next(Model.HeaderCarousel.Count());
+            }
+            @foreach (var img in Model.HeaderCarousel)
+            {
+
+                <div class="carousel-item @(i == active ? "active" : string.Empty)">
+                    <img class="d-block w-100" src="@img.LargeUrl" alt="@img.Alt" />
+                </div>
+
+                i++;
+            }
+        </div>
+    </div>
+    @Html.Action("Index", "Navigation")
+</header>

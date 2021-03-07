@@ -1,0 +1,35 @@
+﻿/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+
+    body {
+  
+    }
+
+
+    main {
+        padding-bottom: 30%;
+    }
+
+
+    .main-navi a, .main-navi a:link, .main-navi a:visited, .main-navi a:active {
+        color: #3d3d3d;
+    
+    }
+
+    #cookie-banner {
+        width: 50%;
+    }
+
+
+    .dropdown-menu {
+        margin: 0;
+        padding: 0;
+        font-size: 1em;
+    }
+
+    .main-navi {
+        font-size: 1.2em;
+    }
+
+
+}
